@@ -11,9 +11,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main VR Scene.unity
     guid: 11e80526a70794198be74218b42afca7
+  - enabled: 0
+    path: Assets/Scenes/Qiuyao_Edit.unity
+    guid: 06751d36e6e043942ab81662810e05e9
+  - enabled: 0
+    path: Assets/Scenes/Chenyi_locomotion.unity
+    guid: 43c37f774c47e43259d8836e280ee12e
+  - enabled: 1
+    path: Assets/Scenes/chenyi_final.unity
+    guid: 5de451f9862174d44ae6998ed49774a8
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4d6944fd13922414abea6a605e3fa7fe, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2e676a087b1394720a7bac87a52fa351, type: 2}
